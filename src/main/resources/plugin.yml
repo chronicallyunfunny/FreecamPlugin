@@ -1,0 +1,11 @@
+name: NoClip
+version: ${project.version}
+main: me.chronicallyunfunny.noclip.NoClip
+api-version: 1.16
+authors: [ chronicallyunfunny ]
+description: Allows NoClip for admins.
+commands:
+  noclip:
+    description: Allows players to noclip through blocks (spectator mode basically).
+    usage: /noclip, /nc, /freecam, or /fc
+    aliases: [nc, freecam, fc]
