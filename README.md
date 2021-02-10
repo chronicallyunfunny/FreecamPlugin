@@ -3,7 +3,7 @@ NoClip/Freecam whatever you want to call it.
 
 From https://www.spigotmc.org/resources/simple-noclip-freecam.88842/:
 
-### A simple survival-ready (remembers your gamemode) noclip plugin that works with the latest version of Minecraft. Give any suggestions in the comments if you want to suggest features.
+### A simple survival-ready (remembers your gamemode) noclip plugin that works with the latest version of Minecraft.
 
 If you are still confused it is basically freecam except your character actually moves.
 
