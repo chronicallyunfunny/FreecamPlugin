@@ -7,5 +7,5 @@ description: Allows NoClip for admins.
 commands:
   noclip:
     description: Allows players to noclip through blocks (spectator mode basically).
-    usage: /noclip, /nc, /freecam, or /fc
+    usage: /noclip, /nc, /freecam, or /fc.
     aliases: [nc, freecam, fc]
