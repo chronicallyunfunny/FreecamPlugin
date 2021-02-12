@@ -18,12 +18,10 @@ public class CommandNoclip implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (!(sender instanceof Player)) {
-            if (!(plugin.getConfig().getBoolean("enable"))) {
+            if (!(plugin.getConfig().getBoolean("enable")))
                 sender.sendMessage("[NoClip] This command does not exist.");
-            }
-            else {
+            else
                 System.out.println("[NoClip] The console cannot issue this command.");
-            }
             return true;
         }
         Player player = (Player) sender;
